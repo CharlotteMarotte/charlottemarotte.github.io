@@ -1,7 +1,11 @@
 ---
-name: PlaceHolder Project
-tools: [nothing, important]
-image: https://www.sketchappsources.com/resources/source-image/project-neon-groove-music-ui.png
-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-external_url: https://www.google.com
+name: Wages for Carework
+tools: [React.js, Node.js, Express.js, Bootstrap, HTML/CSS]
+image: ./images/Screenshot_Wages.png
+description: Full-stack Web App that allows users to create an
+  invoice for the unpaid/invisible labor they are
+  doing in their daily life, enter demographic data,
+  and view statistics about the entered invoices,
+  choosing parameters
+external_url: https://github.com/CharlotteMarotte/mvp-charlotte
 ---
