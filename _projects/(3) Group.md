@@ -1,5 +1,5 @@
 ---
-name: HourHood
+name: HourHood (Group Project)
 tools: [React.js, Node.js, Express.js, Tailwind CSS, HTML/CSS, Bcrypt & JWT,
  Multer, Pusher, Axios, MySQL]
 image: https://imgur.com/rYs60G7.jpg
