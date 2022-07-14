@@ -7,11 +7,10 @@ email:
   color : db4437
 
 github:
-  url   : https://github.com/CharlotteMarotte
+  url   : https://github.com/
   icon  : fab fa-github
   color : 333333
 
 linkedin:
-  url   : https://www.linkedin.com/in/charlotte-bilsing/
-  icon  : fab fa-linkedin-in
+  url   : https://www.linkedin.com/in/
   color : 007bb5
