@@ -1,7 +1,11 @@
 ---
-name: Coding Like Vincent Van Gogh
-tools: [Support, Author, VVG]
-image:
-description: Show some support by following me!
-external_url: https://github.com/YoussefRaafatNasry
+name: HourHood
+tools: [React.js, Node.js,
+ Express.js, Tailwind CSS, HTML/CSS, Bcrypt & JWT,
+ Multer, Pusher, Axios, MySQL]
+image: https://imgur.com/rYs60G7.jpg
+description: Full-stack Web App that is creating a community of
+ neighbors who feel valued and supported by
+ exchanging services with each other
+external_url: https://github.com/CharlotteMarotte/HourHood
 ---
