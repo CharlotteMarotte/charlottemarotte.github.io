@@ -1,7 +1,7 @@
 ---
 name: Wages for Carework
 tools: [React.js, Node.js, Express.js, Bootstrap, HTML/CSS]
-image: ./images/Screenshot_Wages.png
+image: https://imgur.com/Bccdh6u.jpg
 description: Full-stack Web App that allows users to create an
   invoice for the unpaid/invisible labor they are
   doing in their daily life, enter demographic data,

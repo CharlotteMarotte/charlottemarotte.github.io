@@ -2,7 +2,7 @@
 name: Cómo Como
 tools: [React.js, Node.js,
  Express.js, Bootstrap, HTML/CSS, external API]
-image: https://www.sketchappsources.com/resources/source-image/project-neon-groove-music-ui.png
+image: https://imgur.com/xoMQDiJ.jpg
 description: - Full-stack Web App that generates recipes based on
  the user’s input (ingredients) by calling an API
  and with the option to save recipes as favorites
